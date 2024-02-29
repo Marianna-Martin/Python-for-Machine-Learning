@@ -15,6 +15,7 @@ Unsupervised learning encompasses two core objectives: clustering and dimensiona
 4. **Principal Component Analysis (PCA)**: Linear transformation technique for dimensionality reduction, maximizing variance while projecting data onto a lower-dimensional subspace.
 5. **t-SNE (t-Distributed Stochastic Neighbor Embedding)**: Non-linear dimensionality reduction method preserving local similarities, commonly used for high-dimensional data visualization.
 6. **Autoencoders**: Neural network architectures designed to learn efficient representations of input data, facilitating dimensionality reduction and feature learning.
+   ## Repos wiht code and detailed explanation for 1,2,4-https://github.com/Marianna-Martin/Python-for-Machine-Learning.git
 
 ## Applications of Unsupervised Learning:
 1. **Clustering Applications**:
